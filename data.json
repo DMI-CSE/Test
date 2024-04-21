@@ -1,0 +1,723 @@
+{
+    "Norfolk_terrier": {
+    "lifespan": "12-15 years",
+    "average_height": "9-10 inches",
+    "average_weight": "11-12 pounds",
+    "origin": "United Kingdom"
+  },
+  "Norwich_terrier": {
+    "lifespan": "12-15 years",
+    "average_height": "9-10 inches",
+    "average_weight": "11-12 pounds",
+    "origin": "United Kingdom"
+  },
+  "Yorkshire_terrier": {
+    "lifespan": "11-15 years",
+    "average_height": "7-8 inches",
+    "average_weight": "4-7 pounds",
+    "origin": "United Kingdom"
+  },
+  "wire-haired_fox_terrier": {
+    "lifespan": "12-15 years",
+    "average_height": "15.5 inches",
+    "average_weight": "15.5 pounds",
+    "origin": "United Kingdom"
+  },
+  "Lakeland_terrier": {
+    "lifespan": "12-16 years",
+    "average_height": "13-14.5 inches",
+    "average_weight": "15-17 pounds",
+    "origin": "United Kingdom"
+  },
+  "Sealyham_terrier": {
+    "lifespan": "12-15 years",
+    "average_height": "10-12 inches",
+    "average_weight": "20-24 pounds",
+    "origin": "United Kingdom"
+  },
+  "Airedale": {
+    "lifespan": "10-13 years",
+    "average_height": "21-23 inches",
+    "average_weight": "40-65 pounds",
+    "origin": "United Kingdom"
+  },
+  "cairn": {
+    "lifespan": "13-15 years",
+    "average_height": "9.5-10 inches",
+    "average_weight": "13-14 pounds",
+    "origin": "United Kingdom"
+  },
+  "Australian_terrier": {
+    "lifespan": "12-15 years",
+    "average_height": "9-10 inches",
+    "average_weight": "14-16 pounds",
+    "origin": "Australia"
+  },
+  "Dandie_Dinmont": {
+    "lifespan": "12-15 years",
+    "average_height": "8-11 inches",
+    "average_weight": "18-24 pounds",
+    "origin": "United Kingdom"
+  },
+  "Boston_bull": {
+    "lifespan": "11-13 years",
+    "average_height": "10-15 inches",
+    "average_weight": "10-25 pounds",
+    "origin": "United States"
+  },
+  "miniature_schnauzer": {
+    "lifespan": "12-15 years",
+    "average_height": "12-14 inches",
+    "average_weight": "11-20 pounds",
+    "origin": "Germany"
+  },
+  "giant_schnauzer": {
+    "lifespan": "10-12 years",
+    "average_height": "23.5-27.5 inches",
+    "average_weight": "65-95 pounds",
+    "origin": "Germany"
+  },
+  "standard_schnauzer": {
+    "lifespan": "13-16 years",
+    "average_height": "17.5-19.5 inches",
+    "average_weight": "30-45 pounds",
+    "origin": "Germany"
+  },
+  "Scotch_terrier": {
+    "lifespan": "10-12 years",
+    "average_height": "10-11 inches",
+    "average_weight": "18-22 pounds",
+    "origin": "United Kingdom"
+  },
+  "Tibetan_terrier": {
+    "lifespan": "12-15 years",
+    "average_height": "14-17 inches",
+    "average_weight": "18-30 pounds",
+    "origin": "Tibet"
+  },
+  "silky_terrier": {
+    "lifespan": "12-15 years",
+    "average_height": "9-10 inches",
+    "average_weight": "8-11 pounds",
+    "origin": "Australia"
+  },
+  "soft-coated_wheaten_terrier": {
+    "lifespan": "10-15 years",
+    "average_height": "17-19 inches",
+    "average_weight": "30-40 pounds",
+    "origin": "Ireland"
+  },
+  "West_Highland_white_terrier": {
+    "lifespan": "12-16 years",
+    "average_height": "9-11 inches",
+    "average_weight": "13-22 pounds",
+    "origin": "United Kingdom"
+  },
+  "Lhasa": {
+    "lifespan": "12-15 years",
+    "average_height": "10-11 inches",
+    "average_weight": "12-18 pounds",
+    "origin": "Tibet"
+  },
+  "flat-coated_retriever": {
+    "lifespan": "8-10 years",
+    "average_height": "22-24.5 inches",
+    "average_weight": "55-75 pounds",
+    "origin": "United Kingdom"
+  },
+  "curly-coated_retriever": {
+    "lifespan": "10-12 years",
+    "average_height": "23-27 inches",
+    "average_weight": "60-95 pounds",
+    "origin": "United Kingdom"
+  },
+  "golden_retriever": {
+    "lifespan": "10-12 years",
+    "average_height": "21.5-24 inches",
+    "average_weight": "55-75 pounds",
+    "origin": "United Kingdom"
+  },
+  "Labrador_retriever": {
+    "lifespan": "10-12 years",
+    "average_height": "21.5-24.5 inches",
+    "average_weight": "55-80 pounds",
+    "origin": "Canada"
+  },
+  "Chesapeake_Bay_retriever": {
+    "lifespan": "10-13 years",
+    "average_height": "21-26 inches",
+    "average_weight": "55-80 pounds",
+    "origin": "United States"
+  },
+  "German_short-haired_pointer": {
+    "lifespan": "10-14 years",
+    "average_height": "21-25 inches",
+    "average_weight": "45-70 pounds",
+    "origin": "Germany"
+  },
+  "vizsla": {
+    "lifespan": "10-14 years",
+    "average_height": "21-24 inches",
+    "average_weight": "40-65 pounds",
+    "origin": "Hungary"
+  },
+  "English_setter": {
+    "lifespan": "10-12 years",
+    "average_height": "24-27 inches",
+    "average_weight": "45-80 pounds",
+    "origin": "United Kingdom"
+  },
+  "Irish_setter": {
+    "lifespan": "11-15 years",
+    "average_height": "24-28 inches",
+    "average_weight": "60-75 pounds",
+    "origin": "Ireland"
+  },
+  "Gordon_setter": {
+    "lifespan": "10-12 years",
+    "average_height": "23-27 inches",
+    "average_weight": "55-80 pounds",
+    "origin": "United Kingdom"
+  },
+  "Brittany_spaniel": {
+    "lifespan": "12-14 years",
+    "average_height": "17.5-20.5 inches",
+    "average_weight": "30-40 pounds",
+    "origin": "France"
+  },
+  "clumber": {
+    "lifespan": "10-12 years",
+    "average_height": "17-20 inches",
+    "average_weight": "70-85 pounds",
+    "origin": "United Kingdom"
+  },
+  "English_springer": {
+    "lifespan": "12-14 years",
+    "average_height": "19-20 inches",
+    "average_weight": "40-50 pounds",
+    "origin": "United Kingdom"
+  },
+  "Welsh_springer_spaniel": {
+    "lifespan": "12-15 years",
+    "average_height": "17-19 inches",
+    "average_weight": "35-55 pounds",
+    "origin": "United Kingdom"
+  },
+  "cocker_spaniel": {
+    "lifespan": "12-15 years",
+    "average_height": "14-15.5 inches",
+    "average_weight": "20-30 pounds",
+    "origin": "United States"
+  },
+  "Sussex_spaniel": {
+    "lifespan": "11-13 years",
+    "average_height": "13-15 inches",
+    "average_weight": "35-45 pounds",
+    "origin": "United Kingdom"
+  },
+  "Irish_water_spaniel": {
+    "lifespan": "10-12 years",
+    "average_height": "21-24 inches",
+    "average_weight": "55-75 pounds",
+    "origin": "Ireland"
+  },
+  "kuvasz": {
+    "lifespan": "9-12 years",
+    "average_height": "26-30 inches",
+    "average_weight": "70-115 pounds",
+    "origin": "Hungary"
+  },
+  "schipperke": {
+    "lifespan": "12-16 years",
+    "average_height": "10-13 inches",
+    "average_weight": "10-16 pounds",
+    "origin": "Belgium"
+  },
+  "groenendael": {
+    "lifespan": "12-14 years",
+    "average_height": "22-26 inches",
+    "average_weight": "55-75 pounds",
+    "origin": "Belgium"
+  },
+  "malinois": {
+    "lifespan": "14-16 years",
+    "average_height": "22-26 inches",
+    "average_weight": "40-80 pounds",
+    "origin": "Belgium"
+  },
+  "briard": {
+    "lifespan": "10-12 years",
+    "average_height": "22-27 inches",
+    "average_weight": "70-90 pounds",
+    "origin": "France"
+  },
+  "kelpie": {
+    "lifespan": "10-14 years",
+    "average_height": "17-20 inches",
+    "average_weight": "25-45 pounds",
+    "origin": "Australia"
+  },
+  "komondor": {
+    "lifespan": "10-12 years",
+    "average_height": "25-27.5 inches",
+    "average_weight": "80-135 pounds",
+    "origin": "Hungary"
+  },
+  "Old_English_sheepdog": {
+    "lifespan": "10-12 years",
+    "average_height": "21-24 inches",
+    "average_weight": "60-100 pounds",
+    "origin": "United Kingdom"
+  },
+  "Shetland_sheepdog": {
+    "lifespan": "12-14 years",
+    "average_height": "13-16 inches",
+    "average_weight": "15-25 pounds",
+    "origin": "United Kingdom"
+  },
+  "collie": {
+    "lifespan": "10-14 years",
+    "average_height": "22-26 inches",
+    "average_weight": "50-75 pounds",
+    "origin": "United Kingdom"
+  },
+  "Border_collie": {
+    "lifespan": "10-14 years",
+    "average_height": "18-22 inches",
+    "average_weight": "30-50 pounds",
+    "origin": "United Kingdom"
+  },
+  "Bouvier_des_Flandres": {
+    "lifespan": "10-12 years",
+    "average_height": "23.5-27.5 inches",
+    "average_weight": "70-110 pounds",
+    "origin": "Belgium"
+  },
+  "Rottweiler": {
+    "lifespan": "8-10 years",
+    "average_height": "22-27 inches",
+    "average_weight": "80-135 pounds",
+    "origin": "Germany"
+  },
+  "German_shepherd": {
+    "lifespan": "10-14 years",
+    "average_height": "22-26 inches",
+    "average_weight": "50-90 pounds",
+    "origin": "Germany"
+  },
+  "Doberman": {
+    "lifespan": "10-13 years",
+    "average_height": "24-28 inches",
+    "average_weight": "60-100 pounds",
+    "origin": "Germany"
+  },
+  "miniature_pinscher": {
+    "lifespan": "12-16 years",
+    "average_height": "10-12.5 inches",
+    "average_weight": "8-12.5 pounds",
+    "origin": "Germany"
+  },
+  "Greater_Swiss_Mountain_dog": {
+    "lifespan": "8-11 years",
+    "average_height": "23.5-28.5 inches",
+    "average_weight": "85-140 pounds",
+    "origin": "Switzerland"
+  },
+  "Bernese_mountain_dog": {
+    "lifespan": "6-8 years",
+    "average_height": "23-28 inches",
+    "average_weight": "70-115 pounds",
+    "origin": "Switzerland"
+  },
+  "Appenzeller": {
+    "lifespan": "12-14 years",
+    "average_height": "19-23 inches",
+    "average_weight": "48-75 pounds",
+    "origin": "Switzerland"
+  },
+  "EntleBucher": {
+    "lifespan": "11-15 years",
+    "average_height": "16-21 inches",
+    "average_weight": "45-65 pounds",
+    "origin": "Switzerland"
+  },
+  "boxer": {
+    "lifespan": "9-12 years",
+    "average_height": "21.5-25 inches",
+    "average_weight": "50-80 pounds",
+    "origin": "Germany"
+  },
+  "bull_mastiff": {
+    "lifespan": "7-9 years",
+    "average_height": "24-27 inches",
+    "average_weight": "100-130 pounds",
+    "origin": "United Kingdom"
+  },
+  "Tibetan_mastiff": {
+    "lifespan": "10-12 years",
+    "average_height": "26-29 inches",
+    "average_weight": "90-150 pounds",
+    "origin": "Tibet"
+  },
+  "French_bulldog": {
+    "lifespan": "10-12 years",
+    "average_height": "11-12 inches",
+    "average_weight": "16-28 pounds",
+    "origin": "France"
+  },
+  "Great_Dane": {
+    "lifespan": "6-8 years",
+    "average_height": "28-34 inches",
+    "average_weight": "140-175 pounds",
+    "origin": "Germany"
+  },
+  "Saint_Bernard": {
+    "lifespan": "8-10 years",
+    "average_height": "26-30 inches",
+    "average_weight": "140-180 pounds",
+    "origin": "Switzerland"
+  },
+  "Eskimo_dog": {
+    "lifespan": "12-15 years",
+    "average_height": "9-12 inches",
+    "average_weight": "6-35 pounds",
+    "origin": "Canada"
+  },
+  "malamute": {
+    "lifespan": "10-14 years",
+    "average_height": "23-25 inches",
+    "average_weight": "75-85 pounds",
+    "origin": "United States"
+  },
+  "Siberian_husky": {
+    "lifespan": "12-14 years",
+    "average_height": "20-24 inches",
+    "average_weight": "35-60 pounds",
+    "origin": "Russia"
+  },
+  "affenpinscher": {
+    "lifespan": "12-15 years",
+    "average_height": "9-11 inches",
+    "average_weight": "6-13 pounds",
+    "origin": "Germany"
+  },
+  "basenji": {
+    "lifespan": "10-14 years",
+    "average_height": "16-17 inches",
+    "average_weight": "22-24 pounds",
+    "origin": "Central Africa"
+  },
+  "pug": {
+    "lifespan": "12-15 years",
+    "average_height": "10-13 inches",
+    "average_weight": "14-18 pounds",
+    "origin": "China"
+  },
+  "Leonberg": {
+    "lifespan": "8-10 years",
+    "average_height": "27-31.5 inches",
+    "average_weight": "90-170 pounds",
+    "origin": "Germany"
+  },
+  "Newfoundland": {
+    "lifespan": "9-10 years",
+    "average_height": "26-28 inches",
+    "average_weight": "100-150 pounds",
+    "origin": "Canada"
+  },
+  "Great_Pyrenees": {
+    "lifespan": "10-12 years",
+    "average_height": "25-32 inches",
+    "average_weight": "85-160 pounds",
+    "origin": "France"
+  },
+  "Samoyed": {
+    "lifespan": "12-14 years",
+    "average_height": "19-24.5 inches",
+    "average_weight": "50-65 pounds",
+    "origin": "Siberia"
+  },
+  "Pomeranian": {
+    "lifespan": "12-16 years",
+    "average_height": "6-7 inches",
+    "average_weight": "3-7 pounds",
+    "origin": "Germany/Poland"
+  },
+  "chow": {
+    "lifespan": "12-15 years",
+    "average_height": "17-20 inches",
+    "average_weight": "45-70 pounds",
+    "origin": "China"
+  },
+  "keeshond": {
+    "lifespan": "12-15 years",
+    "average_height": "17-18 inches",
+    "average_weight": "35-45 pounds",
+    "origin": "Netherlands"
+  },
+  "Brabancon_griffon": {
+    "lifespan": "12-15 years",
+    "average_height": "7-12 inches",
+    "average_weight": "6-12 pounds",
+    "origin": "Belgium"
+  },
+  "Pembroke": {
+    "lifespan": "12-15 years",
+    "average_height": "10-12 inches",
+    "average_weight": "25-30 pounds",
+    "origin": "United Kingdom"
+  },
+  "Cardigan": {
+    "lifespan": "12-15 years",
+    "average_height": "10.5-12.5 inches",
+    "average_weight": "25-38 pounds",
+    "origin": "United Kingdom"
+  },
+  "toy_poodle": {
+    "lifespan": "10-18 years",
+    "average_height": "10-11 inches",
+    "average_weight": "4-6 pounds",
+    "origin": "Germany/France"
+  },
+  "miniature_poodle": {
+    "lifespan": "10-18 years",
+    "average_height": "10-15 inches",
+    "average_weight": "10-15 pounds",
+    "origin": "Germany/France"
+  },
+  "standard_poodle": {
+    "lifespan": "10-18 years",
+    "average_height": "15-24 inches",
+    "average_weight": "45-70 pounds",
+    "origin": "Germany/France"
+  },
+  "Mexican_hairless": {
+    "lifespan": "12-15 years",
+    "average_height": "10-23 inches",
+    "average_weight": "10-50 pounds",
+    "origin": "Mexico"
+  },
+  "dingo": {
+    "lifespan": "14-16 years",
+    "average_height": "19-23 inches",
+    "average_weight": "29-44 pounds",
+    "origin": "Australia"
+  },
+  "dhole": {
+    "lifespan": "8-10 years",
+    "average_height": "20-24 inches",
+    "average_weight": "40-50 pounds",
+    "origin": "Asia"
+  },
+  "African_hunting_dog": {
+    "lifespan": "7-10 years",
+    "average_height": "24-30 inches",
+    "average_weight": "44-68 pounds",
+    "origin": "Africa"
+  },
+    "Chihuahua": {
+      "lifespan": "12-20 years",
+      "average_height": "6-9 inches",
+      "average_weight": "2-6 pounds",
+      "origin": "Mexico"
+    },
+    "Japanese_spaniel": {
+      "lifespan": "10-14 years",
+      "average_height": "8-11 inches",
+      "average_weight": "5-10 pounds",
+      "origin": "Japan"
+    },
+    "Maltese_dog": {
+      "lifespan": "12-15 years",
+      "average_height": "7-9 inches",
+      "average_weight": "4-7 pounds",
+      "origin": "Malta"
+    },
+    "Pekinese": {
+      "lifespan": "13-15 years",
+      "average_height": "6-9 inches",
+      "average_weight": "8-14 pounds",
+      "origin": "China"
+    },
+    "Shih-Tzu": {
+      "lifespan": "10-16 years",
+      "average_height": "9-11 inches",
+      "average_weight": "9-16 pounds",
+      "origin": "Tibet"
+    },
+    "Blenheim_spaniel": {
+      "lifespan": "9-15 years",
+      "average_height": "12-13 inches",
+      "average_weight": "13-18 pounds",
+      "origin": "United Kingdom"
+    },
+    "papillon": {
+      "lifespan": "12-16 years",
+      "average_height": "8-11 inches",
+      "average_weight": "5-10 pounds",
+      "origin": "France"
+    },
+    "toy_terrier": {
+      "lifespan": "13-15 years",
+      "average_height": "8-10 inches",
+      "average_weight": "4-8 pounds",
+      "origin": "United Kingdom"
+    },
+    "Rhodesian_ridgeback": {
+      "lifespan": "10-12 years",
+      "average_height": "24-27 inches",
+      "average_weight": "70-85 pounds",
+      "origin": "Zimbabwe"
+    },
+    "Afghan_hound": {
+      "lifespan": "12-14 years",
+      "average_height": "25-27 inches",
+      "average_weight": "50-60 pounds",
+      "origin": "Afghanistan"
+    },
+    "basset": {
+      "lifespan": "10-12 years",
+      "average_height": "12-15 inches",
+      "average_weight": "40-65 pounds",
+      "origin": "France"
+    },
+    "beagle": {
+      "lifespan": "10-15 years",
+      "average_height": "13-15 inches",
+      "average_weight": "18-30 pounds",
+      "origin": "United Kingdom"
+    },
+    "bloodhound": {
+      "lifespan": "7-10 years",
+      "average_height": "23-27 inches",
+      "average_weight": "80-110 pounds",
+      "origin": "Belgium"
+    },
+    "bluetick": {
+      "lifespan": "10-12 years",
+      "average_height": "20-27 inches",
+      "average_weight": "45-80 pounds",
+      "origin": "United States"
+    },
+    "black-and-tan_coonhound": {
+      "lifespan": "10-12 years",
+      "average_height": "23-27 inches",
+      "average_weight": "55-75 pounds",
+      "origin": "United States"
+    },
+    "Walker_hound": {
+      "lifespan": "10-12 years",
+      "average_height": "20-27 inches",
+      "average_weight": "50-70 pounds",
+      "origin": "United States"
+    },
+    "English_foxhound": {
+      "lifespan": "10-13 years",
+      "average_height": "21-25 inches",
+      "average_weight": "60-70 pounds",
+      "origin": "United Kingdom"
+    },
+    "redbone": {
+      "lifespan": "11-12 years",
+      "average_height": "21-27 inches",
+      "average_weight": "45-80 pounds",
+      "origin": "United States"
+    },
+    "borzoi": {
+      "lifespan": "10-12 years",
+      "average_height": "26-28 inches",
+      "average_weight": "60-105 pounds",
+      "origin": "Russia"
+    },
+    "Irish_wolfhound": {
+      "lifespan": "6-8 years",
+      "average_height": "30-32 inches",
+      "average_weight": "140-180 pounds",
+      "origin": "Ireland"
+    },
+    "Italian_greyhound": {
+      "lifespan": "14-15 years",
+      "average_height": "13-15 inches",
+      "average_weight": "6-10 pounds",
+      "origin": "Italy"
+    },
+    "whippet": {
+      "lifespan": "12-15 years",
+      "average_height": "18-22 inches",
+      "average_weight": "25-40 pounds",
+      "origin": "United Kingdom"
+    },
+    "Ibizan_hound": {
+      "lifespan": "10-14 years",
+      "average_height": "22-29 inches",
+      "average_weight": "45-65 pounds",
+      "origin": "Spain"
+    },
+    "Norwegian_elkhound": {
+      "lifespan": "12-15 years",
+      "average_height": "19-21 inches",
+      "average_weight": "48-55 pounds",
+      "origin": "Norway"
+    },
+    "otterhound": {
+      "lifespan": "10-12 years",
+      "average_height": "24-27 inches",
+      "average_weight": "80-115 pounds",
+      "origin": "United Kingdom"
+    },
+    "Saluki": {
+      "lifespan": "12-14 years",
+      "average_height": "23-28 inches",
+      "average_weight": "40-65 pounds",
+      "origin": "Middle East"
+    },
+    "Scottish_deerhound": {
+      "lifespan": "8-11 years",
+      "average_height": "28-32 inches",
+      "average_weight": "70-130 pounds",
+      "origin": "United Kingdom"
+    },
+    "Weimaraner": {
+      "lifespan": "10-13 years",
+      "average_height": "23-27 inches",
+      "average_weight": "55-90 pounds",
+      "origin": "Germany"
+    },
+    "Staffordshire_bullterrier": {
+      "lifespan": "12-14 years",
+      "average_height": "14-16 inches",
+      "average_weight": "24-38 pounds",
+      "origin": "United Kingdom"
+    },
+    "American_Staffordshire_terrier": {
+      "lifespan": "12-15 years",
+      "average_height": "17-19 inches",
+      "average_weight": "50-70 pounds",
+      "origin": "United States"
+    },
+    "Bedlington_terrier": {
+      "lifespan": "12-16 years",
+      "average_height": "15-17 inches",
+      "average_weight": "17-23 pounds",
+      "origin": "United Kingdom"
+    },
+    "Border_terrier": {
+      "lifespan": "12-15 years",
+      "average_height": "10-11 inches",
+      "average_weight": "11-15 pounds",
+      "origin": "United Kingdom"
+    },
+    "Kerry_blue_terrier": {
+      "lifespan": "12-15 years",
+      "average_height": "17-20 inches",
+      "average_weight": "30-40 pounds",
+      "origin": "Ireland"
+    },
+    "Irish_terrier": {
+      "lifespan": "12-16 years",
+      "average_height": "18-19 inches",
+      "average_weight": "25-27 pounds",
+      "origin": "Ireland"
+    }
+}
+  

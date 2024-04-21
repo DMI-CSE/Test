@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dog Classifier</title>
+
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: linear-gradient(to bottom, #007bff, #0056b3);
+        background-repeat: no-repeat; /* Prevent gradient from repeating */
+        background-size: cover; /* Cover the entire viewport with the gradient */
+      }
+
+      .title {
+        text-align: center;
+        font-size: 36px; /* Larger text */
+        margin: 20px 0;
+        color: white;
+      }
+
+      .imgscrlabel {
+        display: block;
+        margin: auto;
+        text-align: center; /* Center the text within the label */
+        height: 200px;
+        width: 200px;
+        color: #fff;
+        border-radius: 6px;
+        border: 2px dashed #999;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .imgscrlabel:hover {
+        color: aqua;
+        border: 4px dashed blue;
+      }
+
+      .button {
+        display: block;
+        margin: auto;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        font-size: 18px;
+        border-radius: 20px;
+        min-width: 100px;
+        min-height: 50px;
+        cursor: pointer;
+        margin-bottom: 10px;
+      }
+
+      .button:hover {
+        background-color: black;
+      }
+
+      .result {
+        text-align: center;
+      }
+
+      ul {
+        margin: 100px;
+        padding-right: 200px;
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        font-size: x-large;
+      }
+      li {
+        list-style: none;
+      }
+
+      .imageshow {
+        position: relative;
+        top: 100px;
+        left: 120px;
+        display: none;
+      }
+
+      #preview-image {
+        max-width: 200px;
+        max-height: 200px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        display: none;
+      }
+
+      .container {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        animation: fadeIn 1s ease;
+      }
+    </style>
+
+    <script>
+      function previewImage(event) {
+        const imageInput = document.getElementById("image");
+        const file = imageInput.files[0];
+        const previewImage = document.getElementById("preview-image");
+
+        if (file) {
+          const reader = new FileReader();
+          reader.onload = function (e) {
+            previewImage.src = e.target.result;
+            previewImage.style.display = "block";
+          };
+          reader.readAsDataURL(file);
+        } else {
+          previewImage.style.display = "none";
+        }
+      }
+    </script>
+  </head>
+
+  <body>
+    <h1 class="title">Dog Classifier</h1>
+
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+      <label class="imgscrlabel" for="image">
+        <img id="preview-image" src="#" alt="Preview" />
+        Select an image:
+      </label>
+      <input
+        style="display: none"
+        type="file"
+        name="image"
+        id="image"
+        accept="image/*"
+        onchange="previewImage(event)"
+      />
+
+      <div style="margin-top: 50px">
+        <button type="submit" value="upload" class="button">Classify</button>
+      </div>
+    </form>
+    <div class="result">
+      {% if prediction %}
+      <h2>Prediction: {{ prediction }}</h2>
+      {% endif %}
+    </div>
+    <div class="container">
+      <ul>
+        <li>Lifespawn:{{life}}</li>
+        <li>Average_Height:{{height}}</li>
+      </ul>
+      <ul>
+        <li>Average_Weight:{{weight}}</li>
+        <li>Orgin:{{orgin}}</li>
+      </ul>
+    </div>
+  </body>
+</html>
